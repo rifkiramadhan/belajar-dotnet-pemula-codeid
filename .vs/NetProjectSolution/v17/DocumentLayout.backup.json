@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\looping\\challenges\\challenges03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\looping\\challenges\\challenges03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\looping\\challenges\\challenges04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\looping\\challenges\\challenges04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\looping\\practice\\practice01\\looping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\looping\\practice\\practice01\\looping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|d:\\belajar\\project web\\belajar dot net\\netprojectsolution\\logicproject\\interviewzen\\challenges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\interviewzen\\challenges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\array\\practice\\practice01\\practice01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\array\\practice\\practice01\\practice01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\looping\\challenges\\challenges01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\looping\\challenges\\challenges01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\array\\practice\\practice01\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\array\\practice\\practice01\\array.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\array\\challenges\\challenges07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\array\\challenges\\challenges07.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\array\\challenges\\challenges06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\array\\challenges\\challenges06.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\array\\challenges\\challenges05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\array\\challenges\\challenges05.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\array\\challenges\\challenges04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\array\\challenges\\challenges04.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\array\\challenges\\challenges03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\array\\challenges\\challenges03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\array\\challenges\\challenges02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\array\\challenges\\challenges02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|d:\\belajar\\project web\\belajar dot net\\netprojectsolution\\logicproject\\array\\challenges\\challenges01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\array\\challenges\\challenges01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\looping\\challenges\\challenges02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\looping\\challenges\\challenges02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Challenges04.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Looping\\Challenges\\Challenges04.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Looping\\Challenges\\Challenges04.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Looping\\Challenges\\Challenges04.cs",
+              "RelativeToolTip": "LogicProject\\Looping\\Challenges\\Challenges04.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:33:11.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Program.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Program.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Program.cs",
+              "RelativeToolTip": "LogicProject\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAIAwwCcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T07:30:38.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Challenges.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Interviewzen\\Challenges.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Interviewzen\\Challenges.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Interviewzen\\Challenges.cs",
+              "RelativeToolTip": "LogicProject\\Interviewzen\\Challenges.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAowHIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T04:31:24.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Challenges01.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Looping\\Challenges\\Challenges01.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Looping\\Challenges\\Challenges01.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Looping\\Challenges\\Challenges01.cs",
+              "RelativeToolTip": "LogicProject\\Looping\\Challenges\\Challenges01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:28:34.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Challenges03.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Looping\\Challenges\\Challenges03.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Looping\\Challenges\\Challenges03.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Looping\\Challenges\\Challenges03.cs",
+              "RelativeToolTip": "LogicProject\\Looping\\Challenges\\Challenges03.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAApwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:32:58.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Looping.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Looping\\Practice\\Practice01\\Looping.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Looping\\Practice\\Practice01\\Looping.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Looping\\Practice\\Practice01\\Looping.cs",
+              "RelativeToolTip": "LogicProject\\Looping\\Practice\\Practice01\\Looping.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:33:21.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Practice01.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Practice\\Practice01\\Practice01.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Array\\Practice\\Practice01\\Practice01.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Practice\\Practice01\\Practice01.cs",
+              "RelativeToolTip": "LogicProject\\Array\\Practice\\Practice01\\Practice01.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:22:52.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Array.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Practice\\Practice01\\Array.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Array\\Practice\\Practice01\\Array.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Practice\\Practice01\\Array.cs",
+              "RelativeToolTip": "LogicProject\\Array\\Practice\\Practice01\\Array.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T08:50:08.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Challenges07.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges07.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Array\\Challenges\\Challenges07.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges07.cs",
+              "RelativeToolTip": "LogicProject\\Array\\Challenges\\Challenges07.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:26:59.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Challenges06.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges06.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Array\\Challenges\\Challenges06.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges06.cs",
+              "RelativeToolTip": "LogicProject\\Array\\Challenges\\Challenges06.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:12:22.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Challenges05.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges05.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Array\\Challenges\\Challenges05.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges05.cs",
+              "RelativeToolTip": "LogicProject\\Array\\Challenges\\Challenges05.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:57:26.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Challenges04.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges04.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Array\\Challenges\\Challenges04.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges04.cs",
+              "RelativeToolTip": "LogicProject\\Array\\Challenges\\Challenges04.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T17:47:10.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Challenges03.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges03.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Array\\Challenges\\Challenges03.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges03.cs",
+              "RelativeToolTip": "LogicProject\\Array\\Challenges\\Challenges03.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T16:01:47.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Challenges02.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges02.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Array\\Challenges\\Challenges02.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges02.cs",
+              "RelativeToolTip": "LogicProject\\Array\\Challenges\\Challenges02.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T15:57:43.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Challenges01.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges01.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Array\\Challenges\\Challenges01.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Array\\Challenges\\Challenges01.cs",
+              "RelativeToolTip": "LogicProject\\Array\\Challenges\\Challenges01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:45:34.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Challenges02.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Looping\\Challenges\\Challenges02.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Looping\\Challenges\\Challenges02.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Looping\\Challenges\\Challenges02.cs",
+              "RelativeToolTip": "LogicProject\\Looping\\Challenges\\Challenges02.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAowHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T18:32:27.504Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

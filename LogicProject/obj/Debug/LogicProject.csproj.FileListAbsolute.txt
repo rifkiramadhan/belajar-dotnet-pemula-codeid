@@ -1,0 +1,7 @@
+D:\Belajar\Project Web\Belajar Dot Net\NetProjectSolution\LogicProject\bin\Debug\LogicProject.exe.config
+D:\Belajar\Project Web\Belajar Dot Net\NetProjectSolution\LogicProject\bin\Debug\LogicProject.exe
+D:\Belajar\Project Web\Belajar Dot Net\NetProjectSolution\LogicProject\bin\Debug\LogicProject.pdb
+D:\Belajar\Project Web\Belajar Dot Net\NetProjectSolution\LogicProject\obj\Debug\LogicProject.csproj.AssemblyReference.cache
+D:\Belajar\Project Web\Belajar Dot Net\NetProjectSolution\LogicProject\obj\Debug\LogicProject.csproj.CoreCompileInputs.cache
+D:\Belajar\Project Web\Belajar Dot Net\NetProjectSolution\LogicProject\obj\Debug\LogicProject.exe
+D:\Belajar\Project Web\Belajar Dot Net\NetProjectSolution\LogicProject\obj\Debug\LogicProject.pdb
