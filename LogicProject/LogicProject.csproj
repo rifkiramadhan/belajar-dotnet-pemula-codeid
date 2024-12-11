@@ -58,8 +58,20 @@
     <Compile Include="Looping\Challenges\Challenges03.cs" />
     <Compile Include="Looping\Challenges\Challenges04.cs" />
     <Compile Include="Looping\Practice\Practice01\Looping.cs" />
+    <Compile Include="OOP\Challenges\Employee.cs" />
+    <Compile Include="OOP\Practice\ConstructorCar.cs" />
+    <Compile Include="OOP\Practice\EncapsulationCar.cs" />
+    <Compile Include="OOP\Practice\InheritanceCar.cs" />
+    <Compile Include="OOP\Practice\ObjectAndClassCar.cs" />
+    <Compile Include="OOP\Practice\OverLoadingCalculator.cs" />
+    <Compile Include="OOP\Practice\OverridingAnimal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SOLID\Challenges\EmployeeSOLID.cs" />
+    <Compile Include="SOLID\Practice\HondaCarLSP.cs" />
+    <Compile Include="SOLID\Practice\EmployeeOCP.cs" />
+    <Compile Include="SOLID\Practice\EmployeeSRP.cs" />
+    <Compile Include="SOLID\Practice\VehicleISP.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
