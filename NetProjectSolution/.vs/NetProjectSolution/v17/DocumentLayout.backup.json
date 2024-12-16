@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|d:\\belajar\\project web\\belajar dot net\\netprojectsolution\\logicproject\\solid\\challenges\\employeesolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\solid\\challenges\\employeesolid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|d:\\belajar\\project web\\belajar dot net\\netprojectsolution\\logicproject\\oop\\challenges\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\oop\\challenges\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\solid\\practice\\employeeocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\solid\\practice\\employeeocp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|d:\\belajar\\project web\\belajar dot net\\netprojectsolution\\logicproject\\solid\\practice\\vehicleisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\solid\\practice\\vehicleisp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\solid\\practice\\hondacarlsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\solid\\practice\\hondacarlsp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\logicproject\\solid\\practice\\employeesrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6213A55-FD87-4336-B3BE-1CE0E66842CB}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\solid\\practice\\employeesrp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeSOLID.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\SOLID\\Challenges\\EmployeeSOLID.cs",
+              "RelativeDocumentMoniker": "LogicProject\\SOLID\\Challenges\\EmployeeSOLID.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\SOLID\\Challenges\\EmployeeSOLID.cs",
+              "RelativeToolTip": "LogicProject\\SOLID\\Challenges\\EmployeeSOLID.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA8wA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:13:45.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\OOP\\Challenges\\Employee.cs",
+              "RelativeDocumentMoniker": "LogicProject\\OOP\\Challenges\\Employee.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\OOP\\Challenges\\Employee.cs",
+              "RelativeToolTip": "LogicProject\\OOP\\Challenges\\Employee.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwDUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:09:33.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VehicleISP.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\SOLID\\Practice\\VehicleISP.cs",
+              "RelativeDocumentMoniker": "LogicProject\\SOLID\\Practice\\VehicleISP.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\SOLID\\Practice\\VehicleISP.cs",
+              "RelativeToolTip": "LogicProject\\SOLID\\Practice\\VehicleISP.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:27:26.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HondaCarLSP.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\SOLID\\Practice\\HondaCarLSP.cs",
+              "RelativeDocumentMoniker": "LogicProject\\SOLID\\Practice\\HondaCarLSP.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\SOLID\\Practice\\HondaCarLSP.cs",
+              "RelativeToolTip": "LogicProject\\SOLID\\Practice\\HondaCarLSP.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAewEwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:13:43.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeOCP.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\SOLID\\Practice\\EmployeeOCP.cs",
+              "RelativeDocumentMoniker": "LogicProject\\SOLID\\Practice\\EmployeeOCP.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\SOLID\\Practice\\EmployeeOCP.cs",
+              "RelativeToolTip": "LogicProject\\SOLID\\Practice\\EmployeeOCP.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAqwEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:59:11.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Program.cs",
+              "RelativeDocumentMoniker": "LogicProject\\Program.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\Program.cs",
+              "RelativeToolTip": "LogicProject\\Program.cs",
+              "ViewState": "AgIAADIDAAAAAAAAAAAuwD0DAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:48:04.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeSRP.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\SOLID\\Practice\\EmployeeSRP.cs",
+              "RelativeDocumentMoniker": "LogicProject\\SOLID\\Practice\\EmployeeSRP.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\NetProjectSolution\\LogicProject\\SOLID\\Practice\\EmployeeSRP.cs",
+              "RelativeToolTip": "LogicProject\\SOLID\\Practice\\EmployeeSRP.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAUwHUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T08:36:10.65Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

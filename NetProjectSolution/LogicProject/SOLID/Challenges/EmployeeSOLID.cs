@@ -54,7 +54,6 @@ namespace LogicProject.SOLID.Challenges
                 _employees = employees ?? new List<Employee>();
             }
 
-            // Metode untuk mendapatkan total untuk semua employee
             public decimal GetTotalInsurance()
             {
                 return _employees.Sum(e => e.TotalInsurance);
@@ -85,7 +84,6 @@ namespace LogicProject.SOLID.Challenges
                 return _employees.Sum(e => e.EndOfYearSalary);
             }
 
-            // Metode dari interface lama untuk kompatibilitas
             public List<Employee> GetEmployees() => _employees;
             public int GetTotalEmployees() => _employees.Count;
         }
