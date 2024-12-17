@@ -8,6 +8,7 @@ namespace OOPProject.Step01
 {
     internal class Employee
     {
+        // Set default private
         int empId;
         string firstName;
         string lastName;

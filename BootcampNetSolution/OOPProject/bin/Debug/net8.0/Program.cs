@@ -1,27 +1,32 @@
 ﻿using System.Data;
-using OOPProject.Step01;
+using OOPProject.Step03;
+using OOPProject.Step03.Enum;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
         // Create object use empty constructor
-        Employee emp1 = new Employee();
-        emp1.EmpId = 1;
-        emp1.FirstName = "Test";
-        emp1.LastName = "Code";
-        emp1.JoinDate = new DateTime(2021, 12, 12);
-        emp1.Role = "Programmer";
-        emp1.BasicSalary = 9_000;
-
+        //Employee emp1 = new Employee();
+        //emp1.EmpId = 1;
+        //emp1.FirstName = "Test";
+        //emp1.LastName = "Code";
+        //emp1.JoinDate = new DateTime(2021, 12, 12);
+        //emp1.Role = Roles.HR;
+        //emp1.BasicSalary = 9_000;
 
         // Create obejct using constructor
-        var emp2 = new Employee(101, "Kang", "Dian", new DateTime(2020, 1, 10), emp1.Role, 10_000);
-        var emp3 = new Employee(102, "Wini", "Widi", new DateTime(2020, 1, 10), emp1.Role, 11_000);
-        var emp4 = new Employee(103, "Rini", "Mini", new DateTime(2020, 1, 10), emp1.Role, 12_000);
-        var emp5 = new Employee(104, "Yuli", "Yuliana", new DateTime(2020, 1, 10), emp1.Role, 10_000);
+        var emp2 = new Employee("131", "Kang", "Dian", "kang@gmail.com", new DateTime(1998, 1, 10), new DateTime(2020, 1, 10), Roles.PROGRAMMER, 10_000);
+        var emp3 = new Employee("132", "Wini", "Widi", "wini@gmail.com", new DateTime(1999, 1, 10), new DateTime(2020, 1, 10), Roles.PROGRAMMER, 11_000);
+        var emp4 = new Employee("133", "Rini", "Mini", "rini@gmail.com", new DateTime(1998, 1, 10), new DateTime(2020, 1, 10), Roles.PROGRAMMER, 12_000);
+        var emp5 = new Employee("134", "Yuli", "Yuliana", "yuli@gmail.com", new DateTime(1998, 1, 10), new DateTime(2020, 1, 10), Roles.PROGRAMMER, 10_000);
 
-        List<Employee> employees = new List<Employee>() { emp1, emp2, emp3, emp4, emp5 };
+        // Call object programmer
+        var emp6 = new Programmer("135", "Asep", "Budi", "asep_budi@gmail.com", new DateTime(1998, 1, 10), new DateTime(2020, 1, 10), Roles.PROGRAMMER, 10_000, 5_000);
+        emp6.BasicSalary = 15_000;
+
+        // Create object using constructor
+        List<Employee> employees = new List<Employee>() { emp2, emp3, emp4, emp5, emp6 };
 
         // Display Employees
         foreach (Employee emp in employees)
@@ -29,6 +34,6 @@ internal class Program
             Console.WriteLine(emp.ToString());
         }
 
-        Console.WriteLine($"Total Salary: {emp5.GetTotalSalary(employees)}");
+        Console.WriteLine($"Total Salary: {Employee.GetTotalSalary(employees)}");
     }
 }

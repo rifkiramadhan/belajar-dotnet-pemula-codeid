@@ -7,16 +7,28 @@
       "RelativeMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|solutionrelative:oopproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|d:\\belajar\\project web\\belajar dot net\\bootcampnetsolution\\oopproject\\step01\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|solutionrelative:oopproject\\step01\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|d:\\belajar\\project web\\belajar dot net\\bootcampnetsolution\\oopproject\\step03\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|solutionrelative:oopproject\\step03\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|d:\\belajar\\project web\\belajar dot net\\bootcampnetsolution\\oopproject\\step03\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|solutionrelative:oopproject\\step03\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|d:\\belajar\\project web\\belajar dot net\\bootcampnetsolution\\oopproject\\step03\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|solutionrelative:oopproject\\step03\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|d:\\belajar\\project web\\belajar dot net\\bootcampnetsolution\\oopproject\\step03\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|solutionrelative:oopproject\\step03\\programmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|d:\\belajar\\project web\\belajar dot net\\bootcampnetsolution\\oopproject\\step03\\enum\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|solutionrelative:oopproject\\step03\\enum\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|d:\\belajar\\project web\\belajar dot net\\bootcampnetsolution\\oopproject\\oopproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{966E62D1-1403-4146-9A32-929338D0FE44}|OOPProject\\OOPProject.csproj|solutionrelative:oopproject\\oopproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53A5CAF7-7CF8-4832-85F5-ABA426907471}|LogicProject\\LogicProject.csproj|d:\\belajar\\project web\\belajar dot net\\bootcampnetsolution\\logicproject\\logicproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{53A5CAF7-7CF8-4832-85F5-ABA426907471}|LogicProject\\LogicProject.csproj|solutionrelative:logicproject\\logicproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +38,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step03\\Customer.cs",
+              "RelativeDocumentMoniker": "OOPProject\\Step03\\Customer.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step03\\Customer.cs",
+              "RelativeToolTip": "OOPProject\\Step03\\Customer.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:33:32.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step03\\Person.cs",
+              "RelativeDocumentMoniker": "OOPProject\\Step03\\Person.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step03\\Person.cs",
+              "RelativeToolTip": "OOPProject\\Step03\\Person.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwBsAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:23:23.841Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -36,48 +74,61 @@
               "RelativeDocumentMoniker": "OOPProject\\Program.cs",
               "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Program.cs",
               "RelativeToolTip": "OOPProject\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAWwBcAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAewBQAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:48:01.172Z",
+              "WhenOpened": "2024-12-17T06:22:06.983Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step01\\Employee.cs",
-              "RelativeDocumentMoniker": "OOPProject\\Step01\\Employee.cs",
-              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step01\\Employee.cs",
-              "RelativeToolTip": "OOPProject\\Step01\\Employee.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAAAzwDwAAAANAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Programmer.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step03\\Programmer.cs",
+              "RelativeDocumentMoniker": "OOPProject\\Step03\\Programmer.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step03\\Programmer.cs",
+              "RelativeToolTip": "OOPProject\\Step03\\Programmer.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-16T08:16:49.405Z",
+              "WhenOpened": "2024-12-17T06:21:54.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step03\\Employee.cs",
+              "RelativeDocumentMoniker": "OOPProject\\Step03\\Employee.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step03\\Employee.cs",
+              "RelativeToolTip": "OOPProject\\Step03\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:21:45.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step03\\Enum\\Roles.cs",
+              "RelativeDocumentMoniker": "OOPProject\\Step03\\Enum\\Roles.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\Step03\\Enum\\Roles.cs",
+              "RelativeToolTip": "OOPProject\\Step03\\Enum\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T06:21:38.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "OOPProject",
               "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\OOPProject.csproj",
               "RelativeDocumentMoniker": "OOPProject\\OOPProject.csproj",
               "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\OOPProject\\OOPProject.csproj",
               "RelativeToolTip": "OOPProject\\OOPProject.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAASwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T08:14:55.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LogicProject",
-              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\LogicProject\\LogicProject.csproj",
-              "RelativeDocumentMoniker": "LogicProject\\LogicProject.csproj",
-              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dot Net\\BootcampNetSolution\\LogicProject\\LogicProject.csproj",
-              "RelativeToolTip": "LogicProject\\LogicProject.csproj",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T08:13:26.415Z",
+              "WhenOpened": "2024-12-17T06:20:50.643Z",
               "EditorCaption": ""
             }
           ]

@@ -13,3 +13,4 @@ D:\Belajar\Project Web\Belajar Dot Net\BootcampNetSolution\OOPProject\obj\Debug\
 D:\Belajar\Project Web\Belajar Dot Net\BootcampNetSolution\OOPProject\obj\Debug\net8.0\OOPProject.pdb
 D:\Belajar\Project Web\Belajar Dot Net\BootcampNetSolution\OOPProject\obj\Debug\net8.0\OOPProject.genruntimeconfig.cache
 D:\Belajar\Project Web\Belajar Dot Net\BootcampNetSolution\OOPProject\obj\Debug\net8.0\ref\OOPProject.dll
+D:\Belajar\Project Web\Belajar Dot Net\BootcampNetSolution\OOPProject\obj\Debug\net8.0\OOPProject.sourcelink.json
