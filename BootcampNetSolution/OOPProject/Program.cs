@@ -1,48 +1,71 @@
 ﻿using System.Data;
-using OOPProject.Step04;
-using OOPProject.Step04.Enum;
+using OOPProject.Step05;
+using OOPProject.Step05.Enum;
 
 internal class Program
 {
     private static void Main(string[] args)
     {
-        // Final Design, using interface
+        Console.WriteLine("==== Summary Employee ====\n");
+
+        // Inisialisasikan service dan panggil employee service
         IEmployeeService employeeService = new EmployeeService();
         var employees = employeeService.InitDataEmployee();
+
+        // 1. Tampilkan seluruh data employee
+        Console.WriteLine("1. Displaying All Employees:");
+        Console.WriteLine("---------------------------");
         employeeService.DisplayEmployee(employees);
+        Console.WriteLine();
 
-        var emp5 = new Employee("134", "Yuli", "Yuliana", "yuli@gmail.com", new DateTime(1998, 1, 10), new DateTime(2020, 1, 10), Roles.PROGRAMMER, 10_000);
-        var netSal1 = emp5.GetNetSalary(emp5.BasicSalary, 10);
-        var netSal2 = emp5.GetNetSalary(emp5.BasicSalary, 10, 500);
- 
-        // Create object use empty constructor
-        //Employee emp1 = new Employee();
-        //emp1.EmpId = 1;
-        //emp1.FirstName = "Test";
-        //emp1.LastName = "Code";
-        //emp1.JoinDate = new DateTime(2021, 12, 12);
-        //emp1.Role = Roles.HR;
-        //emp1.BasicSalary = 9_000;
+        // 2. Total seluruh employe
+        Console.WriteLine("2. Total Number of Employees:");
+        Console.WriteLine("---------------------------");
+        Console.WriteLine($"Total Employees: {employeeService.TotalEmployee(employees)}");
+        Console.WriteLine();
 
-        // Create obejct using constructor
-        //var emp2 = new Employee("131", "Kang", "Dian", "kang@gmail.com", new DateTime(1998, 1, 10), new DateTime(2020, 1, 10), Roles.PROGRAMMER, 10_000);
-        //var emp3 = new Employee("132", "Wini", "Widi", "wini@gmail.com", new DateTime(1999, 1, 10), new DateTime(2020, 1, 10), Roles.PROGRAMMER, 11_000);
-        //var emp4 = new Employee("133", "Rini", "Mini", "rini@gmail.com", new DateTime(1998, 1, 10), new DateTime(2020, 1, 10), Roles.PROGRAMMER, 12_000);
-        //var emp5 = new Employee("134", "Yuli", "Yuliana", "yuli@gmail.com", new DateTime(1998, 1, 10), new DateTime(2020, 1, 10), Roles.PROGRAMMER, 10_000);
+        // 3. Hitung dan tampilkan total salary
+        Console.WriteLine("3. Total Salary of All Employees:");
+        Console.WriteLine("---------------------------");
+        Console.WriteLine($"Total Salary: {employeeService.TotalSalary(employees):C}");
+        Console.WriteLine();
 
-        // Call object programmer
-        //var emp6 = new Programmer("135", "Asep", "Budi", "asep_budi@gmail.com", new DateTime(1998, 1, 10), new DateTime(2020, 1, 10), Roles.PROGRAMMER, 10_000, 5_000);
-        //emp6.BasicSalary = 15_000;
+        // 4. Panggil dan tampilkan employee dari id
+        Console.WriteLine("4. Find Employee by ID (100-110):");
+        Console.WriteLine("---------------------------");
+        try
+        {
+            var employeeById = employeeService.GetById(employees, 131);
+            Console.WriteLine($"Found Employee: {employeeById}");
+        }
+        catch (KeyNotFoundException ex)
+        {
+            Console.WriteLine($"Error {ex.Message}");
+        }
+        Console.WriteLine();
 
-        // Create object using constructor
-        //List<Employee> employees = new List<Employee>() { emp2, emp3, emp4, emp5, emp6 };
+        // 5. Panggil employee sesuai dengan role
+        Console.WriteLine("5. Display Programmers Only:");
+        Console.WriteLine("---------------------------");
+        var allEmployees = employeeService.GetAll(employees);
+        foreach (var emp in employees)
+        {
+            if (emp.Role == Roles.PROGRAMMER)
+            {
+                Console.WriteLine(emp);
+            }
+        }
+        Console.WriteLine();
 
-        // Display Employees
-        //foreach (Employee emp in employees)
-        //{
-        //    Console.WriteLine(emp.ToString());
-        //}
+        // 6. Hitung gaji untuk karyawan tertentu
+        Console.WriteLine("6. Salary Calculations:");
+        Console.WriteLine("---------------------------");
+        var employee = employees[0];
+        var netSalary1 = employee.GetNetSalary(employee.BasicSalary, 10);
+        var netSalary2 = employee.GetNetSalary(employee.BasicSalary, 10, 500);
 
-        //Console.WriteLine($"Total Salary: {Employee.GetTotalSalary(employees)}");
+        Console.WriteLine($"Employee: {employee.FirstName} {employee.LastName}");
+        Console.WriteLine($"Net Salary (with 10% tax): {netSalary1:NO}");
+        Console.WriteLine($"Net Salary (with 10% tax and Rp 500 deduction): {netSalary2:NO}");
     }
 }
