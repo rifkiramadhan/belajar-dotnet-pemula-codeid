@@ -1,0 +1,20 @@
+﻿@model List<Employee>
+
+@{
+    ViewData["Title"] = "Employee";
+}
+
+<div class="row text-center">
+    <h1 class="display-4">List Of Employee</h1>
+    @foreach (var emp in Model)
+    {
+        <div class="card" style="width: 18rem;">
+          <div class="card-body">
+            <h5 class="card-title">Employee Id: @emp.Id</h5>
+            <p class="card-text">Name: @emp.Name</p>
+            <p class="card-text">Name: @emp.Salary</p>
+            <a asp-action="Details" asp-route-id="@emp.Id" class="btn btn-primary">Detail</a>
+          </div>
+        </div>
+    };
+</div>

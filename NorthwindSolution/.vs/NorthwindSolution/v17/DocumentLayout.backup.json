@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\views\\shared\\_sneatlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\shared\\_sneatlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\views\\shared\\_headpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\shared\\_headpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|d:\\belajar\\project web\\belajar dotnet dasar\\northwindsolution\\northwindmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98133680-D2E3-4B62-B0A9-356A7CFFD318}|NorthwindMVC\\NorthwindMVC.csproj|solutionrelative:northwindmvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NorthwindMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:51:18.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:37:10.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\Employee\\Details.cshtml",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:57:13.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:10:35.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_SneatLayout.cshtml",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Shared\\_SneatLayout.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\Shared\\_SneatLayout.cshtml",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Shared\\_SneatLayout.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\Shared\\_SneatLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:25:50.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_HeadPartial.cshtml",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Shared\\_HeadPartial.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\Shared\\_HeadPartial.cshtml",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Shared\\_HeadPartial.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\Shared\\_HeadPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:57:49.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "NorthwindMVC\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA3wC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:22:52.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "NorthwindMVC\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T07:51:47.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Models\\Employee.cs",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Models\\Employee.cs",
+              "RelativeToolTip": "NorthwindMVC\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:41:27.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T09:53:56.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T07:52:06.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T07:52:00.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T07:51:54.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T08:00:47.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NorthwindMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T07:52:03.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "NorthwindMVC\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\Properties\\launchSettings.json",
+              "RelativeToolTip": "NorthwindMVC\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T07:50:20.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "NorthwindMVC\\appsettings.json",
+              "ToolTip": "D:\\Belajar\\Project Web\\Belajar Dotnet Dasar\\NorthwindSolution\\NorthwindMVC\\appsettings.json",
+              "RelativeToolTip": "NorthwindMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T07:52:08.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
