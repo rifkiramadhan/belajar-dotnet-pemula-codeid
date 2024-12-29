@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LogicProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d478ece8a302323cd6b3ca4367c53ae5ba82ee77")]
 [assembly: System.Reflection.AssemblyProductAttribute("LogicProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LogicProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
